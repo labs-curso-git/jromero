@@ -3,3 +3,5 @@
 Prácticas con GIT
 
 > Juego de Tecleo
+
+## Cambio en local
